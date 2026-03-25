@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **mongoDB,nodejs,express react**
 
-- 👨‍💻 All of my projects are available at [https://pruthvrajyadav.github.io/simple-portfolio/](https://pruthvrajyadav.github.io/simple-portfolio/)
+- 👨‍💻 All of my projects are available at [https://pruthvirajyadav.in/]
 
 - 💬 Ask me about **html,css and js**
 
